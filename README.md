@@ -36,8 +36,7 @@ Folder Structure 📂
 ├── README.md             # Project documentation  
 
 Author ✍️
-Varun Singh
-
+Taniya Singh
 
 Checkout the book recommendation system at:
 https://book-recommendation-system-31.onrender.com
